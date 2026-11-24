@@ -39,7 +39,7 @@
 
 | Projeto | O que é | Status |
 |---|---|---|
-| 🍽️ **Comandaí** | Sistema de cardápio digital e gestão de restaurante: delivery, QR code de mesa, mesas e pedidos para a cozinha | 🔨 Em desenvolvimento |
+| 🍽️ **Comandaí** | Sistema de cardápio digital e gestão de restaurante: delivery, QR code de mesa, mesas e pedidos para a cozinha | 🟢 Ativo |
 | 📊 **Sistema PMK** | Plataforma de inteligência comercial: IA no WhatsApp, CRM e painel de resultados — [ver página](https://sistemapmk.netlify.app/) | ✅ No ar |
 
 ---
